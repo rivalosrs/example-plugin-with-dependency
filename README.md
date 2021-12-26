@@ -1,0 +1,1 @@
+Proof of concept plugin attempting to use an external dependency
